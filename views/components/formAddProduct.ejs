@@ -1,0 +1,44 @@
+<h3>Add Product</h3>
+<form action="<%= '/store/' + sto._id + '/addProduct' %>" method="POST">
+  <div>
+    <input
+      hidden
+      class="form-control"
+      type="text"
+      name="_id"
+      value="<%= sto._id %>"
+    />
+  </div>
+
+  <div>
+    <label class="form-label">
+      Product ID:
+      <input class="form-control" type="text" name="product_id" />
+    </label>
+  </div>
+
+  <div>
+    <label class="form-label">
+      Product Name:
+      <input class="form-control" type="text" name="product_name" />
+    </label>
+  </div>
+
+  <div>
+    <label class="form-label">
+      Product Category:
+
+      <select class="form-control" name="type">
+        <option value="Eye">Eye</option>
+        <option value="Lip">Lip</option>
+        <option value="Cheek">Cheek</option>
+        <option value="Face">Face</option>
+        <option value="Accessories">Accessories</option>
+        <option value="Tools&Brushes">Tools&Brushes</option>
+      </select>
+      
+    </label>
+  </div>
+
+  <button type="submit" class="btn btn-primary">Add Product</button>
+</form>

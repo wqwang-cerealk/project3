@@ -1,0 +1,45 @@
+<h2>Store</h2>
+<form action="<%= '/store/' + sto._id + '/edit' %>" method="POST">
+
+    <div>
+	  <label class="form-label">
+		  StoreID:
+		  <input class="form-control" type="number" name="_id"
+		  disabled
+		  value="<%= sto._id %>"
+		  disabled
+		  />
+	  </label>
+	</div>
+
+	<div>
+	  <label class="form-label">
+		Store Location:
+		<input class="form-control" type="text" name="store_location"
+		value="<%= sto.store_location %>"
+		/>
+	  </label>
+    </div>
+
+    <div>
+    	<label class="form-label">
+    		Employee Number:
+    		<input class="form-control" type="number" name="employee_number"
+    		value="<%= sto.employee_number %>"
+    		/>
+    	</label>
+    </div>
+	
+	<div>
+    	<label class="form-label">
+    		Invoice id:
+    		<input class="form-control" type="array" name="purchase_id"
+    		value="<%= sto.purchase_id %>"
+    		/>
+    	</label>
+    </div>
+
+   
+	<button class="btn btn-primary" type="submit">Edit</button>
+	<a class="btn btn-danger" href="<%= '/store/' + sto._id + '/delete' %>">Delete</a>
+</form>

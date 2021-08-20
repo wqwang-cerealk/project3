@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <%- include("../templates/head.ejs") %>
+  <body>
+    <%- include("../templates/navBar.ejs", {user}) %>
+
+    <div class="container">
+      <h1>Login</h1>
+
+      <% if (msg) { %>
+      <div class="alert alert-primary">
+        <%= msg %>
+      </div>
+      <% } %>
+
+      <form action="/login/password" method="POST">
+        <div class="mb-3">
+          <label for="form-label">
+            Username
+            <input type="text" class="form-control" name="username" />
+          </label>
+        </div>
+        <div class="mb-3">
+          <label for="form-label">
+            Password
+            <input type="password" class="form-control" name="password" />
+          </label>
+        </div>
+   
+        <div class="mb-3">
+          <button type="submit" class="btn btn-primary">Login</button>
+        </div>
+
+        <div>or <a href="/users/new">Create an account</a></div>
+      </form>
+    </div>
+
+    <%- include("../templates/footer.ejs") %>
+  </body>
+</html>

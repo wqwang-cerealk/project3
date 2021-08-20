@@ -1,0 +1,1916 @@
+[{
+  "_id": {
+    "$oid": "6100fef9f2c9bf0725e218b0"
+  },
+  "store_id": 2,
+  "store_location": "586 Nevada Park",
+  "employee_number": 15,
+  "purchase_id": [
+    225,
+    449,
+    37,
+    331,
+    131,
+    421,
+    210,
+    15,
+    412,
+    23,
+    458,
+    236,
+    336
+  ],
+  "product": [
+    {
+      "id": "50",
+      "name": "Naked3",
+      "category": "Cheek"
+    },
+    {
+      "id": "42",
+      "name": "Lights, Camera, Lashes",
+      "category": "Tools & Brushes"
+    },
+    {
+      "id": "26",
+      "name": "BACKSTAGE Rosy Glow",
+      "category": "Accessories"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6100fef9f2c9bf0725e218b1"
+  },
+  "store_id": 8,
+  "store_location": "16 American Circle",
+  "employee_number": 35,
+  "purchase_id": [
+    36,
+    473,
+    66,
+    70,
+    314,
+    122,
+    221,
+    16,
+    139,
+    146,
+    123,
+    91,
+    139
+  ],
+  "product": [
+    {
+      "id": "8",
+      "name": "Airflash Spray",
+      "category": "Face"
+    },
+    {
+      "id": "22",
+      "name": "Hollywood Flawless Filter",
+      "category": "Lip"
+    },
+    {
+      "id": "24",
+      "name": "Tartelette In Bloom Clay",
+      "category": "Lip"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6100fef9f2c9bf0725e218b2"
+  },
+  "store_id": 7,
+  "store_location": "238 Elgar Pass",
+  "employee_number": 25,
+  "purchase_id": [
+    294,
+    91,
+    499,
+    428,
+    202,
+    385,
+    52,
+    292,
+    178,
+    375,
+    373,
+    245,
+    251,
+    98,
+    344,
+    479,
+    239,
+    145,
+    151,
+    304,
+    291,
+    90,
+    184,
+    120,
+    240,
+    459,
+    158,
+    148,
+    498,
+    157,
+    440,
+    165,
+    268,
+    288,
+    94,
+    116,
+    44,
+    289,
+    183,
+    381,
+    217
+  ],
+  "product": [
+    {
+      "id": "13",
+      "name": "Seaweed Infused Vegan Set",
+      "category": "Eye"
+    },
+    {
+      "id": "41",
+      "name": "High Roller Crease Brush",
+      "category": "Cheek"
+    },
+    {
+      "id": "26",
+      "name": "Big Boss Powder",
+      "category": "Cheek"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6100fef9f2c9bf0725e218b3"
+  },
+  "store_id": 4,
+  "store_location": "70184 Garrison Park",
+  "employee_number": 28,
+  "purchase_id": [
+    458,
+    189,
+    130,
+    286,
+    117,
+    247,
+    28,
+    455,
+    120,
+    435,
+    194,
+    256,
+    440,
+    329,
+    57,
+    127,
+    167,
+    103,
+    203,
+    381,
+    456,
+    161,
+    80,
+    324,
+    355,
+    97,
+    248,
+    178,
+    339,
+    271,
+    456,
+    102,
+    260,
+    361,
+    179,
+    332,
+    417,
+    140,
+    93,
+    437,
+    440,
+    129,
+    424,
+    403,
+    476
+  ],
+  "product": [
+    {
+      "id": "14",
+      "name": "Pillow Talk Collection",
+      "category": "Accessories"
+    },
+    {
+      "id": "9",
+      "name": "Ultra HD Invisible Cover",
+      "category": "Lip"
+    },
+    {
+      "id": "41",
+      "name": "Under Eye Brightening Corrector",
+      "category": "Accessories"
+    },
+    {
+      "id": "24",
+      "name": "K.I.S.S.I.N.G",
+      "category": "Accessories"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6100fef9f2c9bf0725e218b4"
+  },
+  "store_id": 5,
+  "store_location": "4 Calypso Hill",
+  "employee_number": 37,
+  "purchase_id": [
+    66,
+    223,
+    31,
+    374,
+    217,
+    123,
+    14,
+    16,
+    254,
+    408,
+    44,
+    177,
+    406,
+    348,
+    248,
+    447,
+    131,
+    18,
+    417,
+    332,
+    299,
+    433,
+    64,
+    273,
+    136,
+    75,
+    243,
+    444,
+    122,
+    69,
+    62,
+    282,
+    141,
+    329,
+    200,
+    112,
+    292,
+    244,
+    343,
+    412
+  ],
+  "product": [
+    {
+      "id": "47",
+      "name": "Norvina Pro Pigment Palette",
+      "category": "Lip"
+    },
+    {
+      "id": "19",
+      "name": "Naked3",
+      "category": "Lip"
+    },
+    {
+      "id": "2",
+      "name": "Divine Powder Blush",
+      "category": "Accessories"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6100fef9f2c9bf0725e218b5"
+  },
+  "store_id": 3,
+  "store_location": "123 Ramsey Crossing",
+  "employee_number": 22,
+  "purchase_id": [
+    367,
+    141,
+    218,
+    483,
+    70,
+    290,
+    220,
+    346,
+    376,
+    149,
+    214,
+    496,
+    245,
+    130,
+    303,
+    468,
+    344,
+    42,
+    102,
+    448,
+    214,
+    427,
+    470,
+    130,
+    106,
+    364,
+    400,
+    213,
+    466,
+    280,
+    499,
+    354,
+    224,
+    389,
+    328,
+    442,
+    383,
+    462,
+    150,
+    375,
+    214,
+    159,
+    384,
+    293,
+    401
+  ],
+  "product": [
+    {
+      "id": "15",
+      "name": "Divine Powder Blush",
+      "category": "Lip"
+    },
+    {
+      "id": "41",
+      "name": "Radiant Creamy Concealer",
+      "category": "Tools & Brushes"
+    },
+    {
+      "id": "11",
+      "name": "Ultra HD Invisible Cover",
+      "category": "Tools & Brushes"
+    },
+    {
+      "id": "25",
+      "name": "Big Boss Powder",
+      "category": "Cheek"
+    },
+    {
+      "id": "50",
+      "name": "Matte Revolution",
+      "category": "Face"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6100fef9f2c9bf0725e218b6"
+  },
+  "store_id": 1,
+  "store_location": "67 Sheridan Plaza",
+  "employee_number": 14,
+  "purchase_id": [
+    "23",
+    "308",
+    "21",
+    "162",
+    "422",
+    "460",
+    "264",
+    "277",
+    "84",
+    "203",
+    "381",
+    "308",
+    "144",
+    "316",
+    "332",
+    "292",
+    "19",
+    "274",
+    "224",
+    "337",
+    "271",
+    "60",
+    "113"
+  ],
+  "product": [
+    {
+      "id": "19",
+      "name": "Shimmering Skin Perfector",
+      "category": "Lip"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6100fef9f2c9bf0725e218b7"
+  },
+  "store_id": 10,
+  "store_location": "3148 Vera Alley",
+  "employee_number": 25,
+  "purchase_id": [
+    153,
+    115,
+    206,
+    411,
+    325,
+    39,
+    452,
+    307,
+    437,
+    284,
+    426,
+    2,
+    291,
+    105,
+    382,
+    197,
+    146,
+    440,
+    35,
+    315,
+    170,
+    340,
+    105,
+    1,
+    113,
+    151,
+    216,
+    61,
+    310,
+    157,
+    29,
+    491,
+    292,
+    82,
+    363,
+    206,
+    271,
+    450,
+    434,
+    223,
+    489,
+    404,
+    380,
+    414,
+    193,
+    270,
+    467
+  ],
+  "product": [
+    {
+      "id": "48",
+      "name": "Shimmering Skin Perfector",
+      "category": "Face"
+    },
+    {
+      "id": "6",
+      "name": "Mercury Retrograde",
+      "category": "Lip"
+    },
+    {
+      "id": "33",
+      "name": "Double Wear Stay-in-Place",
+      "category": "Cheek"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6100fef9f2c9bf0725e218b8"
+  },
+  "store_id": 9,
+  "store_location": "29 Thackeray Way",
+  "employee_number": 22,
+  "purchase_id": [
+    358,
+    399,
+    47,
+    297,
+    159,
+    180,
+    448,
+    78,
+    233,
+    231,
+    338,
+    441,
+    298,
+    217,
+    193,
+    90,
+    324,
+    111,
+    359,
+    212,
+    27,
+    204,
+    316,
+    490,
+    294,
+    76,
+    437,
+    93,
+    289,
+    319,
+    109,
+    68,
+    272,
+    52,
+    83,
+    440,
+    41,
+    205,
+    112,
+    230,
+    431,
+    138,
+    182,
+    292,
+    158,
+    345,
+    95
+  ],
+  "product": [
+    {
+      "id": "44",
+      "name": "Soft Pinch Liquid",
+      "category": "Lip"
+    },
+    {
+      "id": "18",
+      "name": "Naked Wild West",
+      "category": "Cheek"
+    },
+    {
+      "id": "40",
+      "name": "Killawatt Freestyle Highlighter",
+      "category": "Face"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6100fef9f2c9bf0725e218b9"
+  },
+  "store_id": 14,
+  "store_location": "0341 Cody Terrace",
+  "employee_number": 12,
+  "purchase_id": [
+    405,
+    67,
+    392,
+    299,
+    304,
+    449,
+    171,
+    128,
+    450,
+    483,
+    199
+  ],
+  "product": [
+    {
+      "id": "42",
+      "name": "Pillow Talk Collection",
+      "category": "Tools & Brushes"
+    },
+    {
+      "id": "38",
+      "name": "Touche Éclat All-Over Brightening Pen",
+      "category": "Cheek"
+    },
+    {
+      "id": "37",
+      "name": "High Roller Crease Brush",
+      "category": "Accessories"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6100fef9f2c9bf0725e218ba"
+  },
+  "store_id": 12,
+  "store_location": "7 Pond Court",
+  "employee_number": 14,
+  "purchase_id": [
+    468,
+    79,
+    223,
+    149,
+    373,
+    236,
+    487,
+    445,
+    167,
+    357,
+    456,
+    447,
+    279,
+    346,
+    302,
+    415,
+    378,
+    334,
+    443
+  ],
+  "product": [
+    {
+      "id": "4",
+      "name": "Ambient Lighting Powder",
+      "category": "Face"
+    },
+    {
+      "id": "24",
+      "name": "Luminous Silk Perfect Glow Foundation",
+      "category": "Face"
+    },
+    {
+      "id": "18",
+      "name": "Lashstash To Go",
+      "category": "Eye"
+    },
+    {
+      "id": "25",
+      "name": "Pick It All",
+      "category": "Eye"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6100fef9f2c9bf0725e218bb"
+  },
+  "store_id": 11,
+  "store_location": "18618 Spaight Trail",
+  "employee_number": 30,
+  "purchase_id": [
+    412,
+    108,
+    74,
+    350,
+    212,
+    339,
+    51,
+    26,
+    269,
+    490,
+    140,
+    211,
+    462,
+    220,
+    230,
+    308,
+    209,
+    301,
+    251,
+    94,
+    20,
+    201,
+    391,
+    305,
+    171,
+    220,
+    453,
+    141,
+    16,
+    107,
+    88,
+    372,
+    436,
+    307,
+    378,
+    416
+  ],
+  "product": [
+    {
+      "id": "33",
+      "name": "Vinyl Cream Stain",
+      "category": "Face"
+    },
+    {
+      "id": "43",
+      "name": "Soft Glame",
+      "category": "Cheek"
+    },
+    {
+      "id": "25",
+      "name": "Hyaluronic Happikiss",
+      "category": "Cheek"
+    },
+    {
+      "id": "39",
+      "name": "Double Wear Stay-in-Place",
+      "category": "Eye"
+    },
+    {
+      "id": "23",
+      "name": "Shimmering Skin Perfector",
+      "category": "Lip"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6100fef9f2c9bf0725e218bc"
+  },
+  "store_id": 17,
+  "store_location": "233 Commercial Park",
+  "employee_number": 38,
+  "purchase_id": [
+    393,
+    93,
+    374,
+    376,
+    449,
+    449,
+    296,
+    349,
+    447,
+    81,
+    354,
+    463,
+    21,
+    253,
+    405
+  ],
+  "product": [
+    {
+      "id": "39",
+      "name": "Mothership V",
+      "category": "Lip"
+    },
+    {
+      "id": "31",
+      "name": "K.I.S.S.I.N.G",
+      "category": "Eye"
+    },
+    {
+      "id": "38",
+      "name": "Radiant Creamy Concealer",
+      "category": "Lip"
+    },
+    {
+      "id": "38",
+      "name": "Obsessions Palette",
+      "category": "Cheek"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6100fef9f2c9bf0725e218bd"
+  },
+  "store_id": 6,
+  "store_location": "5623 Prentice Trail",
+  "employee_number": 37,
+  "purchase_id": [
+    19,
+    223,
+    272,
+    16,
+    170,
+    307,
+    246,
+    62,
+    58,
+    294,
+    37,
+    351,
+    472,
+    274,
+    47,
+    430,
+    415,
+    50,
+    19,
+    22,
+    155,
+    296,
+    289,
+    499,
+    124,
+    485,
+    413,
+    63,
+    64,
+    117,
+    397,
+    163,
+    209,
+    245,
+    160,
+    412,
+    125,
+    312,
+    236,
+    61,
+    288,
+    87,
+    219,
+    382,
+    91,
+    346,
+    76,
+    328,
+    288,
+    399
+  ],
+  "product": [
+    {
+      "id": "48",
+      "name": "Seaweed Infused Vegan Set",
+      "category": "Face"
+    },
+    {
+      "id": "29",
+      "name": "Mothership V",
+      "category": "Lip"
+    },
+    {
+      "id": "1",
+      "name": "High Roller Crease Brush",
+      "category": "Cheek"
+    },
+    {
+      "id": "43",
+      "name": "Naked3",
+      "category": "Tools & Brushes"
+    },
+    {
+      "id": "41",
+      "name": "Rouge Pur Couture Satin Collection",
+      "category": "Cheek"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6100fef9f2c9bf0725e218be"
+  },
+  "store_id": 15,
+  "store_location": "5311 Old Shore Avenue",
+  "employee_number": 36,
+  "purchase_id": [
+    375,
+    306,
+    115,
+    44,
+    60,
+    410,
+    346,
+    8,
+    458,
+    296,
+    162,
+    183,
+    445,
+    286,
+    425,
+    130,
+    152,
+    31,
+    84,
+    141,
+    21,
+    168,
+    170,
+    487,
+    342,
+    374,
+    462,
+    109,
+    64,
+    102,
+    203,
+    445,
+    427,
+    239,
+    65,
+    305,
+    12,
+    437,
+    308,
+    435,
+    331,
+    252,
+    383,
+    378,
+    91,
+    409
+  ],
+  "product": [
+    {
+      "id": "36",
+      "name": "BACKSTAGE Rosy Glow",
+      "category": "Lip"
+    },
+    {
+      "id": "16",
+      "name": "Obsessions Palette",
+      "category": "Tools & Brushes"
+    },
+    {
+      "id": "29",
+      "name": "Radiant Creamy Concealer",
+      "category": "Cheek"
+    },
+    {
+      "id": "37",
+      "name": "Major Sculpt Creme Duo",
+      "category": "Accessories"
+    },
+    {
+      "id": "25",
+      "name": "High Roller Crease Brush",
+      "category": "Tools & Brushes"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6100fef9f2c9bf0725e218bf"
+  },
+  "store_id": 13,
+  "store_location": "7 Manley Court",
+  "employee_number": 29,
+  "purchase_id": [
+    481,
+    426,
+    287,
+    255,
+    106,
+    313,
+    82,
+    121,
+    375,
+    16,
+    12,
+    410,
+    270,
+    490,
+    378,
+    208,
+    441,
+    402,
+    327,
+    377,
+    388,
+    303,
+    140,
+    356,
+    393,
+    467,
+    372,
+    378,
+    297,
+    130,
+    13,
+    188,
+    119,
+    125,
+    7,
+    240,
+    70,
+    339,
+    300,
+    341,
+    55,
+    434
+  ],
+  "product": [
+    {
+      "id": "10",
+      "name": "Double Wear Stay-in-Place",
+      "category": "Lip"
+    },
+    {
+      "id": "15",
+      "name": "Ambient Lighting Powder",
+      "category": "Cheek"
+    },
+    {
+      "id": "9",
+      "name": "Rouge Forever",
+      "category": "Lip"
+    },
+    {
+      "id": "21",
+      "name": "Shimmering Skin Perfector",
+      "category": "Tools & Brushes"
+    },
+    {
+      "id": "28",
+      "name": "Shimmering Skin Perfector",
+      "category": "Accessories"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6100fef9f2c9bf0725e218c0"
+  },
+  "store_id": 16,
+  "store_location": "435 Dayton Drive",
+  "employee_number": 13,
+  "purchase_id": [
+    32,
+    457,
+    283,
+    122,
+    456,
+    185,
+    412,
+    430,
+    274,
+    406,
+    406,
+    393,
+    487,
+    283,
+    480,
+    247,
+    121,
+    198,
+    458,
+    385,
+    271,
+    11,
+    437,
+    181,
+    219,
+    213,
+    386,
+    179,
+    325,
+    299,
+    415,
+    33,
+    108,
+    85,
+    83,
+    429,
+    213,
+    457
+  ],
+  "product": [
+    {
+      "id": "36",
+      "name": "Power Move Creamy Matte Lip",
+      "category": "Tools & Brushes"
+    },
+    {
+      "id": "26",
+      "name": "Rouge Pur Couture Satin Collection",
+      "category": "Tools & Brushes"
+    },
+    {
+      "id": "24",
+      "name": "Beauty on the Fly",
+      "category": "Tools & Brushes"
+    },
+    {
+      "id": "36",
+      "name": "Mercury Retrograde",
+      "category": "Tools & Brushes"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6100fef9f2c9bf0725e218c1"
+  },
+  "store_id": 18,
+  "store_location": "90276 Dovetail Junction",
+  "employee_number": 13,
+  "purchase_id": [
+    163,
+    89,
+    206,
+    98,
+    364,
+    156,
+    146,
+    414,
+    157,
+    496,
+    62,
+    199,
+    400,
+    330,
+    308,
+    76,
+    342,
+    305,
+    290,
+    486,
+    387,
+    375,
+    173,
+    122,
+    393,
+    71,
+    195,
+    202
+  ],
+  "product": [
+    {
+      "id": "24",
+      "name": "Tartelette In Bloom Clay",
+      "category": "Face"
+    },
+    {
+      "id": "12",
+      "name": "High Roller Crease Brush",
+      "category": "Face"
+    },
+    {
+      "id": "42",
+      "name": "High Roller Crease Brush",
+      "category": "Cheek"
+    },
+    {
+      "id": "25",
+      "name": "Beauty on the Fly",
+      "category": "Cheek"
+    },
+    {
+      "id": "7",
+      "name": "Match Stix Matte Skinstick",
+      "category": "Accessories"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6100fef9f2c9bf0725e218c2"
+  },
+  "store_id": 23,
+  "store_location": "7892 Anniversary Street",
+  "employee_number": 23,
+  "purchase_id": [
+    468,
+    419,
+    388,
+    467,
+    178,
+    473,
+    225,
+    191,
+    480,
+    113,
+    264,
+    109,
+    386,
+    25,
+    142,
+    110,
+    139,
+    271,
+    394,
+    167,
+    474,
+    44,
+    1,
+    399,
+    313,
+    62,
+    168,
+    442,
+    315,
+    205,
+    333,
+    227,
+    206,
+    54,
+    124,
+    370,
+    245,
+    484
+  ],
+  "product": [
+    {
+      "id": "33",
+      "name": "Lights, Camera, Lashes",
+      "category": "Lip"
+    },
+    {
+      "id": "20",
+      "name": "Match Stix Matte Skinstick",
+      "category": "Accessories"
+    },
+    {
+      "id": "3",
+      "name": "Beauty on the Fly",
+      "category": "Lip"
+    },
+    {
+      "id": "40",
+      "name": "Major Sculpt Creme Duo",
+      "category": "Eye"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6100fef9f2c9bf0725e218c3"
+  },
+  "store_id": 19,
+  "store_location": "4 Mayer Circle",
+  "employee_number": 27,
+  "purchase_id": [
+    492,
+    354,
+    186,
+    387,
+    367,
+    94,
+    373,
+    400,
+    466,
+    426,
+    485,
+    387,
+    82,
+    148,
+    15,
+    212,
+    103,
+    149,
+    158,
+    74,
+    2,
+    36,
+    15,
+    320,
+    192,
+    466,
+    97,
+    405,
+    81,
+    460,
+    234,
+    207,
+    459,
+    416
+  ],
+  "product": [
+    {
+      "id": "13",
+      "name": "Major Sculpt Creme Duo",
+      "category": "Lip"
+    },
+    {
+      "id": "48",
+      "name": "Match Stix Matte Skinstick",
+      "category": "Cheek"
+    },
+    {
+      "id": "45",
+      "name": "Radiant Creamy Concealer",
+      "category": "Accessories"
+    },
+    {
+      "id": "17",
+      "name": "Power Move Creamy Matte Lip",
+      "category": "Tools & Brushes"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6100fef9f2c9bf0725e218c4"
+  },
+  "store_id": 20,
+  "store_location": "5 Fairfield Way",
+  "employee_number": 19,
+  "purchase_id": [
+    452,
+    349,
+    51,
+    416,
+    499,
+    280,
+    316,
+    105,
+    46,
+    295,
+    460,
+    445,
+    101,
+    159,
+    145,
+    173,
+    463,
+    321,
+    333,
+    285,
+    188,
+    277,
+    140,
+    2,
+    497,
+    327,
+    451,
+    294,
+    479,
+    34,
+    15,
+    362,
+    17,
+    340,
+    54,
+    276,
+    401
+  ],
+  "product": [
+    {
+      "id": "18",
+      "name": "BACKSTAGE Glow Face Palette",
+      "category": "Accessories"
+    },
+    {
+      "id": "1",
+      "name": "Pillow Talk Collection",
+      "category": "Eye"
+    },
+    {
+      "id": "11",
+      "name": "Naked3",
+      "category": "Eye"
+    },
+    {
+      "id": "50",
+      "name": "Norvina Pro Pigment Palette",
+      "category": "Face"
+    },
+    {
+      "id": "16",
+      "name": "Venus in Fleurs Luxe Palette",
+      "category": "Eye"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6100fef9f2c9bf0725e218c5"
+  },
+  "store_id": 24,
+  "store_location": "66435 Fuller Crossing",
+  "employee_number": 22,
+  "purchase_id": [
+    397,
+    439,
+    120,
+    335,
+    422,
+    268,
+    500,
+    352,
+    407,
+    222,
+    145
+  ],
+  "product": [
+    {
+      "id": "1",
+      "name": "Pick It All",
+      "category": "Lip"
+    },
+    {
+      "id": "12",
+      "name": "Double Wear Stay-in-Place",
+      "category": "Accessories"
+    },
+    {
+      "id": "31",
+      "name": "K.I.S.S.I.N.G",
+      "category": "Accessories"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6100fef9f2c9bf0725e218c6"
+  },
+  "store_id": 21,
+  "store_location": "30729 Vernon Crossing",
+  "employee_number": 36,
+  "purchase_id": [
+    267,
+    251,
+    428,
+    163,
+    21,
+    380,
+    363,
+    498,
+    66,
+    182,
+    184,
+    326,
+    401,
+    488,
+    400,
+    360,
+    466,
+    205,
+    275,
+    307,
+    187,
+    79,
+    312,
+    32,
+    242,
+    4,
+    290,
+    8,
+    283,
+    402,
+    448,
+    458,
+    272,
+    32,
+    165,
+    116
+  ],
+  "product": [
+    {
+      "id": "5",
+      "name": "Naked3",
+      "category": "Face"
+    },
+    {
+      "id": "23",
+      "name": "Essential Set",
+      "category": "Cheek"
+    },
+    {
+      "id": "50",
+      "name": "Addict Tattoo",
+      "category": "Eye"
+    },
+    {
+      "id": "37",
+      "name": "Beauty on the Fly",
+      "category": "Accessories"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6100fef9f2c9bf0725e218c7"
+  },
+  "store_id": 25,
+  "store_location": "626 Mesta Hill",
+  "employee_number": 28,
+  "purchase_id": [
+    148,
+    499,
+    79,
+    56,
+    340,
+    435,
+    41,
+    486,
+    402,
+    343,
+    493,
+    381,
+    202,
+    459,
+    247,
+    14,
+    461,
+    33,
+    173,
+    476,
+    272
+  ],
+  "product": [
+    {
+      "id": "50",
+      "name": "Under Eye Brightening Corrector",
+      "category": "Tools & Brushes"
+    },
+    {
+      "id": "14",
+      "name": "Under Eye Brightening Corrector",
+      "category": "Tools & Brushes"
+    },
+    {
+      "id": "48",
+      "name": "Lashstash To Go",
+      "category": "Cheek"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6100fef9f2c9bf0725e218c8"
+  },
+  "store_id": 22,
+  "store_location": "507 Blaine Alley",
+  "employee_number": 12,
+  "purchase_id": [
+    12,
+    4,
+    215,
+    367,
+    221,
+    483,
+    465,
+    330,
+    498,
+    86,
+    425,
+    6,
+    164,
+    387,
+    64,
+    467,
+    203,
+    472,
+    35,
+    60,
+    364,
+    463,
+    297,
+    140,
+    453,
+    359,
+    278,
+    157,
+    202,
+    191,
+    137,
+    448,
+    297,
+    300,
+    256,
+    296,
+    69,
+    165,
+    410,
+    380
+  ],
+  "product": [
+    {
+      "id": "41",
+      "name": "Mothership V",
+      "category": "Cheek"
+    },
+    {
+      "id": "36",
+      "name": "Hyaluronic Happikiss",
+      "category": "Accessories"
+    },
+    {
+      "id": "39",
+      "name": "Radiant Creamy Concealer",
+      "category": "Face"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6100fef9f2c9bf0725e218c9"
+  },
+  "store_id": 26,
+  "store_location": "4651 Sommers Crossing",
+  "employee_number": 22,
+  "purchase_id": [
+    303,
+    398,
+    435,
+    473,
+    446,
+    380,
+    426,
+    348,
+    27,
+    67,
+    233,
+    14,
+    402
+  ],
+  "product": [
+    {
+      "id": "21",
+      "name": "Norvina Pro Pigment Palette",
+      "category": "Face"
+    },
+    {
+      "id": "5",
+      "name": "Under Eye Brightening Corrector",
+      "category": "Accessories"
+    },
+    {
+      "id": "38",
+      "name": "Killawatt Freestyle Highlighter",
+      "category": "Lip"
+    },
+    {
+      "id": "50",
+      "name": "Lashstash To Go",
+      "category": "Eye"
+    },
+    {
+      "id": "26",
+      "name": "BACKSTAGE Rosy Glow",
+      "category": "Lip"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6100fef9f2c9bf0725e218ca"
+  },
+  "store_id": 27,
+  "store_location": "469 Rockefeller Drive",
+  "employee_number": 15,
+  "purchase_id": [
+    180,
+    112,
+    86,
+    96,
+    269,
+    239,
+    36,
+    1,
+    74,
+    281,
+    198,
+    329,
+    335,
+    425,
+    167,
+    74,
+    96,
+    462,
+    45,
+    80,
+    70,
+    477,
+    494,
+    131,
+    356,
+    330,
+    134,
+    445,
+    212,
+    404,
+    25,
+    278,
+    382,
+    481,
+    396,
+    317,
+    40
+  ],
+  "product": [
+    {
+      "id": "23",
+      "name": "Under Eye Brightening Corrector",
+      "category": "Face"
+    },
+    {
+      "id": "46",
+      "name": "You Got The Look",
+      "category": "Face"
+    },
+    {
+      "id": "17",
+      "name": "Pick It All",
+      "category": "Cheek"
+    },
+    {
+      "id": "24",
+      "name": "Essential Set",
+      "category": "Face"
+    },
+    {
+      "id": "10",
+      "name": "BACKSTAGE Rosy Glow",
+      "category": "Eye"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6100fef9f2c9bf0725e218cb"
+  },
+  "store_id": 28,
+  "store_location": "5 Mandrake Hill",
+  "employee_number": 14,
+  "purchase_id": [
+    162,
+    244,
+    114,
+    109,
+    126,
+    257,
+    408,
+    212,
+    86,
+    199,
+    172,
+    280,
+    377,
+    58,
+    462,
+    301,
+    262,
+    114,
+    158,
+    35,
+    306,
+    382,
+    127,
+    34,
+    476,
+    230,
+    53,
+    30,
+    236,
+    380,
+    95,
+    206,
+    340,
+    386,
+    211,
+    67,
+    448,
+    384,
+    303,
+    443,
+    198,
+    398,
+    35
+  ],
+  "product": [
+    {
+      "id": "21",
+      "name": "BACKSTAGE Glow Face Palette",
+      "category": "Accessories"
+    },
+    {
+      "id": "50",
+      "name": "Under Eye Brightening Corrector",
+      "category": "Eye"
+    },
+    {
+      "id": "42",
+      "name": "Hyaluronic Happikiss",
+      "category": "Lip"
+    },
+    {
+      "id": "48",
+      "name": "Tartelette In Bloom Clay",
+      "category": "Cheek"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6100fef9f2c9bf0725e218cc"
+  },
+  "store_id": 29,
+  "store_location": "06566 Menomonie Hill",
+  "employee_number": 32,
+  "purchase_id": [
+    134,
+    32,
+    260,
+    343,
+    217,
+    433,
+    21,
+    295,
+    150,
+    272,
+    276,
+    112,
+    324,
+    200,
+    274,
+    170,
+    264,
+    453,
+    176,
+    495,
+    322,
+    467,
+    91,
+    5,
+    479,
+    320,
+    375,
+    402,
+    499,
+    312,
+    308
+  ],
+  "product": [
+    {
+      "id": "15",
+      "name": "Addict Tattoo",
+      "category": "Accessories"
+    },
+    {
+      "id": "4",
+      "name": "Essential Set",
+      "category": "Cheek"
+    },
+    {
+      "id": "32",
+      "name": "Seaweed Infused Vegan Set",
+      "category": "Eye"
+    },
+    {
+      "id": "47",
+      "name": "Colorful Wink-It Felt Tip",
+      "category": "Cheek"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6100fef9f2c9bf0725e218cd"
+  },
+  "store_id": 30,
+  "store_location": "08678 Lakewood Park",
+  "employee_number": 32,
+  "purchase_id": [
+    134,
+    210,
+    370,
+    67,
+    406,
+    267,
+    433,
+    363,
+    279,
+    21,
+    182,
+    155,
+    339,
+    178,
+    221,
+    357,
+    219,
+    447,
+    128,
+    110,
+    443,
+    3,
+    141
+  ],
+  "product": [
+    {
+      "id": "32",
+      "name": "Lights, Camera, Lashes",
+      "category": "Lip"
+    },
+    {
+      "id": "34",
+      "name": "High Roller Crease Brush",
+      "category": "Accessories"
+    },
+    {
+      "id": "21",
+      "name": "Airflash Spray",
+      "category": "Tools & Brushes"
+    },
+    {
+      "id": "12",
+      "name": "Double Wear Stay-in-Place",
+      "category": "Face"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61067fe0612343c7921fdc89"
+  },
+  "store_id": "90",
+  "store_location": "256 Divine Road",
+  "employee_number": "123",
+  "purchase_id": [
+    "289",
+    "113",
+    "463",
+    "469",
+    "308",
+    "21",
+    "162",
+    "422",
+    "460",
+    "264",
+    "277",
+    "84",
+    "203",
+    "381",
+    "308",
+    "144",
+    "316",
+    "332",
+    "292",
+    "19",
+    "274",
+    "224",
+    "337",
+    "271",
+    "60",
+    "113"
+  ],
+  "product": [
+    {
+      "id": "89",
+      "name": "sunset palette",
+      "category": "Eye"
+    }
+  ]
+}]

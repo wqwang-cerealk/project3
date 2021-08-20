@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <%- include("../templates/head.ejs") %>
+  <body>
+    <%- include("../templates/navBar.ejs", {}) %>
+
+    <div class="container">
+      <h1>Edit Store</h1>
+
+      <% if (msg) { %>
+      <div class="alert"><%= msg %></div>
+      <% } %> <%- include("../components/formEditStore.ejs", {sto}) %> <%-
+      include("../components/productlist.ejs", {sto}) %>
+    </div>
+
+    <%- include("../templates/footer") %>
+  </body>
+</html>

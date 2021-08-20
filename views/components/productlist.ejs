@@ -1,0 +1,13 @@
+
+  <h2>Products:</h2>
+    <ul>
+    <% for (let pro of sto.product) { %>
+     <li>
+      <%= pro.id + "-" + pro.name + "-" + pro.category %> </li>
+
+
+    <a href="<%= '/store/' + sto._id + '/removeProduct/' + pro.id %>" >❌</a>
+
+     </ul>
+   <% } %>
+   <%- include("../components/formAddProduct.ejs", { sto }) %>
